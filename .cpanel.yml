@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/alsomyid/public_html/testingrepo
+    - export DEPLOYPATH=/home/alsomyid/public_html/testingrepop
     - /bin/cp -R * $DEPLOYPATH
