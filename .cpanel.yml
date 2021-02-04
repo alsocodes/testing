@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/alsomyid/public_html/testrepo
+    - /bin/cp -R * $DEPLOYPATH
